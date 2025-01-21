@@ -24,10 +24,10 @@
 # print ('对换数组：')
 # print (np.transpose(a))
 
-import numpy as np
-a = np.arange(12).reshape(3,4)
-print ('原数组：')
-print (a)
-print ('\n')
-print ('转置数组：')
-print (a.T)
+# import numpy as np
+# a = np.arange(12).reshape(3,4)
+# print ('原数组：')
+# print (a)
+# print ('\n')
+# print ('转置数组：')
+# print (a.T)
